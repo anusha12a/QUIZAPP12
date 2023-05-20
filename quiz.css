@@ -1,0 +1,21 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+body {
+    background-color: pink;
+}
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+#score {
+    margin-top: 20px;
+}
